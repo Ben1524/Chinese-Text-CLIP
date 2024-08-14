@@ -1,0 +1,10 @@
+loguru==0.6.0
+numpy==2.0.1
+pandas==1.4.2
+Pillow==9.3.0
+Pillow==10.4.0
+Requests==2.32.3
+torch==2.3.0
+tqdm==4.64.0
+tqdm==4.66.5
+transformers==4.28.1
